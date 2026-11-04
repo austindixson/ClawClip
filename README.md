@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=ClawClip%20%20🎬&width=800&height=210)](https://github.com/RuneweaverStudios/ClawClip)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=ClawClip%20%20🎬&width=800&height=210)](https://github.com/austindixson/ClawClip)
 
 ### <p align="center">「[简体中文](./README_zh.md) | English」</p>
 
@@ -67,7 +67,7 @@
 ClawClip basic functions rely on a python environment only.
 ```shell
 # clone ClawClip repo
-git clone https://github.com/RuneweaverStudios/ClawClip.git
+git clone https://github.com/austindixson/ClawClip.git
 cd ClawClip
 # install Python requirments
 pip install -r ./requirements.txt
